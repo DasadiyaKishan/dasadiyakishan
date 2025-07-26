@@ -6,16 +6,16 @@ I'm a passionate **PHP Laravel Developer** with **3 years of experience** buildi
 
 ## 💻 Tech Stack
 
-- 💡 **Languages**: PHP, HTML, CSS, JavaScript
-- 🧰 **Frameworks & Tools**:
-  - Laravel (REST APIs, MVC Architecture, Eloquent ORM)
-  - Bootstrap (Responsive UI)
-  - MySQL (Database Design & Queries)
-- 🛠️ **Others**:
-  - Git & GitHub
-  - AJAX, jQuery
-  - RESTful API integration
-  - Blade templating engine
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 ---
 
@@ -45,7 +45,7 @@ Here are a few featured projects:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn – Dasadiya Kishan](https://linkedin.com/in/dasadiya-kishan-149b01223)
 - 📧 Email: kishand956@gmail.com
 
 ---
@@ -56,4 +56,4 @@ Here are a few featured projects:
 
 ---
 
-_Thanks for visiting!_ ✨  
+_Thanks for visiting!_ ✨
