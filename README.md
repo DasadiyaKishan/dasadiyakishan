@@ -1,17 +1,21 @@
-# 👋 Hi, I'm Dasadiya Kishan
+# Hi 👋 I'm Dasadiya Kishan
 
-I'm a passionate **PHP Laravel Developer** with **3 years of experience** building modern, secure, and scalable web applications.
+### 💻 Web Developer | PHP Laravel Specialist
+
+I have **3+ years of experience** in Laravel development. My expertise includes:
+**PHP, Laravel, MySQL, HTML, CSS, Bootstrap, JavaScript, and Git**.  
+I enjoy building clean, fast, and scalable web applications, and I'm always eager to learn new technologies.
 
 ---
 
-## 💻 Tech Stack
+### 🧠 Skills
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
@@ -19,41 +23,22 @@ I'm a passionate **PHP Laravel Developer** with **3 years of experience** buildi
 
 ---
 
-## 🚀 What I Do
+### 🌍 About Me
 
-- ✅ Develop clean, reusable, and efficient backend code in Laravel  
-- ✅ Design responsive front-end interfaces with Bootstrap and custom CSS  
-- ✅ Build and integrate RESTful APIs  
-- ✅ Manage MySQL databases and write optimized queries  
-- ✅ Collaborate with teams using Git and GitHub
-
----
-
-## 📂 Projects
-
-Here are a few featured projects:
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🧾 **Invoice Manager** | A web app for managing client invoices and payments. | Laravel, MySQL, Bootstrap |
-| 📋 **Task Manager** | CRUD-based task management system with user roles. | Laravel, Bootstrap, JS |
-| 📈 **Analytics Dashboard** | Real-time data dashboard using Laravel + AJAX. | Laravel, jQuery, Chart.js |
-
-> 🔗 Check out pinned repositories for live code examples.
+- 🌐 I'm based in India  
+- 👨‍💻 I'm currently working with Laravel-based web apps  
+- 📚 I'm learning advanced Laravel architecture and deployment  
+- 🤝 I'm open to freelance, remote and collaborative projects
 
 ---
 
-## 📫 Let's Connect
+### 📫 Connect With Me
 
-- 💼 [LinkedIn – Dasadiya Kishan](https://linkedin.com/in/dasadiya-kishan-149b01223)
-- 📧 Email: kishand956@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dasadiya-kishan-149b01223)
+[![Email](https://img.shields.io/badge/Email-kishand956@gmail.com-red?style=flat&logo=gmail)](mailto:kishand956@gmail.com)
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
 ![Dasadiya Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasadiyakishan&show_icons=true&theme=radical)
-
----
-
-_Thanks for visiting!_ ✨
